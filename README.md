@@ -1,15 +1,15 @@
-<h2 align="center">
+<h3 align="center">
   <img alt="Hello" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/Hi.gif" width="29px"> 
   Hello,World!
   <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
-</h2>
+</h3>
 
-<h2 align="center">
+<h3 align="center">
     I'm Ramakrishna Ramadugu
     <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
-</h2>
+</h3>
 
-<img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg"/>
+<img width="55%" align="right" alt="Bootcamp" src="https://github.com/rramadugu/rramadugu/blob/master/coderman.gif"/>
 
 <p align="left">
   <samp>
@@ -25,7 +25,7 @@
 
 <hr/>
 
-<h2 align="center">About</h2>
+<h3 align="center">About</h3>
 
 [![ISO Payments](https://img.shields.io/badge/-ISO%20Payments-FF6600?style=flat&logo=swift&link=)]()
 [![SWIFT](https://img.shields.io/badge/-SWIFT-005FBA?style=flat&logo=swift&link=)]()
@@ -69,7 +69,7 @@ Akshat.skills.push(...FX, ...FED, ...NACHA);
 </div>
 
 
-<h2 align="center">💁‍♂️ Find me on</h2>
+<h3 align="center">💁‍♂️ Find me on</h3>
 
 
 <p align="center"> 
@@ -78,8 +78,3 @@ Akshat.skills.push(...FX, ...FED, ...NACHA);
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-
-
