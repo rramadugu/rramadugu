@@ -8,8 +8,8 @@
     I'm Ramakrishna Ramadugu
     <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
 </h3>
-
-<img width="55%" align="right" alt="Bootcamp" src="https://github.com/rramadugu/rramadugu/blob/master/coderman.gif"/>
+<hr/>
+<img width="58%" align="right" alt="Bootcamp" src="https://github.com/rramadugu/rramadugu/blob/master/coderman.gif"/>
 
 <p align="left">
   <samp>
