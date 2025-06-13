@@ -78,17 +78,16 @@ Akshat.skills.push(...FX, ...FED, ...NACHA);
 
 
 
+
+<h2 align="left">💁‍♂️ Find me on</h2>
+
+
 <div align="center"> 
-<h2 align="center">Find me on</h2>
-
-<p align="center">
-
   <a href="https://www.linkedin.com/in/ramadugu/">
     <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
   </a>
 
 
-</p>
 </div>
 
 
