@@ -70,11 +70,11 @@ Akshat.skills.push(...FX, ...FED, ...NACHA);
 <br/>
 
 
-
-<p align="center"> 
+<h3 align="left">🔥 My Stats</h3>
+<div align="center"> 
   
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramadugu&layout=compact&theme=" alt=rramadugu />
-</p>
+</div>
 
 <hr/>
 
