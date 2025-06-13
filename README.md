@@ -63,31 +63,23 @@ const products = ["Product Implementation", "GPP (Global PAYplus)", "Payments", 
 Akshat.skills.push(...FX, ...FED, ...NACHA);
 ```
 
-<hr/>
-
-
-
-<br/>
-
-
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="center">🔥 My Stats</h3>
 <div align="center"> 
-  
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramadugu&layout=compact&theme=" alt=rramadugu />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramadugu&layout=compact&theme=" alt="rramadugu" />
 </div>
 
 
+<h2 align="center">💁‍♂️ Find me on</h2>
 
 
-<h2 align="left">💁‍♂️ Find me on</h2>
-
-
-<div align="center"> 
+<p align="center"> 
   <a href="https://www.linkedin.com/in/ramadugu/">
     <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
   </a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-</div>
+
 
 
