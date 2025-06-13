@@ -69,13 +69,16 @@ Akshat.skills.push(...FX, ...FED, ...NACHA);
 
 <br/>
 
+<!-- <p align="center"> 
+  <samp>
+    Profile Views Count
+  </samp>
+</p> -->
+
 <p align="center"> 
   <samp>
     Profile Views Count
   </samp>
-</p>
-
-<p align="center"> 
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramadugu&layout=compact&theme=" alt=rramadugu />
 </p>
 
