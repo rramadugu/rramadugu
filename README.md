@@ -76,17 +76,19 @@ Akshat.skills.push(...FX, ...FED, ...NACHA);
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramadugu&layout=compact&theme=" alt=rramadugu />
 </div>
 
-<hr/>
-
-<h2 align="center">Find me on</h2>
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/ramadugu/">
-    <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
-  </a>
 
 
-</p>
+<div align="center"> 
+  <h2 align="center">Find me on</h2>
+
+  <p align="center">
+
+    <a href="https://www.linkedin.com/in/ramadugu/">
+      <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
+    </a>
+
+
+  </p>
+</div>
 
 
