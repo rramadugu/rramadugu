@@ -76,7 +76,7 @@ Akshat.skills.push(...FX, ...FED, ...NACHA);
 </p>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/rramadugu/count.svg" alt="rramadugu profile views" /> 
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rramadugu&layout=compact&theme=" alt=rramadugu />
 </p>
 
 <hr/>
